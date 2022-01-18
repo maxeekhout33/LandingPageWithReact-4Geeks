@@ -12,7 +12,7 @@ const Home = () => {
 	return (
 		<div>
 			<Navbar />
-			<div className="container">
+			<div className="container m-5">
 				<Jumbotron />
 				<Card />
 			</div>
